@@ -91,6 +91,10 @@ class Layout extends React.Component {
           ·
           &nbsp;
           <a href="https://github.com/HorusGoul">github</a>
+          &nbsp;
+          ·
+          &nbsp;
+          <a href="https://stackoverflow.com/cv/horus">curriculum vitae</a>
         </footer>
       </div>
     )

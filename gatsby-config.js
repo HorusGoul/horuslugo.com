@@ -3,7 +3,7 @@ module.exports = {
     siteUrl: 'https://horuslugo.com',
     author: 'Horus Lugo López',
     title: 'Horus Lugo',
-    description: 'Some bits regarding web development',
+    description: 'A place to share my knowledge and projects about web development.',
   },
   pathPrefix: '/gatsby-starter-i18n-blog',
   plugins: [

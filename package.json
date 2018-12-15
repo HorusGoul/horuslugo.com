@@ -1,11 +1,8 @@
 {
-  "name": "gatsby-starter-i18n-blog",
-  "description": "Starter Gatsby i18n Blog",
+  "name": "horuslugo-com",
+  "description": "Horus Lugo's personal blog",
   "version": "1.0.0",
-  "author": "Joaquín Bravo Contreras <jackbravo@gmail.com>",
-  "bugs": {
-    "url": "https://github.com/jackbravo/gatsby-starter-i18n-blog/issues"
-  },
+  "author": "Horus Lugo <horusgoul@gmail.com>",
   "dependencies": {
     "gatsby": "^2.0.19",
     "gatsby-plugin-feed": "^2.0.8",
@@ -41,7 +38,6 @@
     "gh-pages": "^1.2.0",
     "prettier": "^1.14.2"
   },
-  "homepage": "https://github.com/jackbravo/gatsby-starter-i18n-blog#readme",
   "keywords": [
     "gatsby"
   ],
@@ -49,7 +45,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jackbravo/gatsby-starter-blog.git"
+    "url": "git+https://github.com/HorusGoul/horuslugo.com"
   },
   "scripts": {
     "dev": "gatsby develop",
