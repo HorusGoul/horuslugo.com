@@ -52,7 +52,7 @@ module.exports = {
         short_name: `Horus Lugo`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#53a28a`,
         display: `minimal-ui`,
         icon: `src/assets/icon.png`,
       },
