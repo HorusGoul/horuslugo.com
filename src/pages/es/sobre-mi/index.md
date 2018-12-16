@@ -1,37 +1,34 @@
 ---
-title: Sobre mi
+title: Sobre mí
 date: "2018-12-16"
 language: es
 translations: ["en", "about-me"]
 ---
 
-**TODO: Traducir**
+El desarrollo de software ha sido mi pasión desde hace años. Siempre he estado creando cosas con el propósito de que otros puedan aprender, crear comunidades o incluso para divertirme. Me encanta aprender y usar nuevas tecnologías para poder lanzar productos que quizá, algún día, sean utilizados por millones de personas.
 
-Software development has been my passion for years. I've been always building stuff with the purpose of helping others to learn, build communities or even just for fun. I'm eager to learn new technologies and use them to make great products that maybe, one day, will be used by millions of
-people.
+Empecé sobre 2009, con el objetivo de crear páginas sobre juegos de navegador. En aquella época, tenía 10 años, todo era prueba y error, y, casi sin darme cuenta, aprendí HTML, CSS y el suficiente PHP como para hacer modificaciones en una CMS de foros. No fue hasta 2014 donde conocí el ecosistema de Javascript.
 
-I started around 2009, with the purpose of building web pages related to browser games. At that time, I was 10 years old and it was all trial and error, and without knowing it, I learned HTML, CSS and enough PHP to make modifications on a forum CMS. It wasn't until 2014 that I made contact with the Javascript ecosystem. 
+![SMF - La CMS de foros que solía utilizar](./smf.jpg "SMF - La CMS de foros que solía utilizar")
 
-![SMF - The forum CMS I used to work with](./smf.jpg "SMF - The forum CMS I used to work with")
+Ese año aprendí algo de Javascript y de jQuery, lo que me llevó a crear aplicaciones, juegos, e incluso a ganar un Hackathon de WebRTC. En los años siguientes, me centré en aprender más sobre Javascript vanilla, y después pasé a utilizar frameworks y librerías como Angular y React.
 
-That year, I learned some Javascript and jQuery. That led me to build basic apps, games, and even to win a WebRTC Hackathon. In the following years, I focused on learning more about developing using vanilla Javascript and then moved onto frameworks and libraries such as Angular and React.
+![WebRTCFest 2014](./webrtcfest2014.jpg "WebRTCFest 2014 - 1er premio")
 
-![WebRTCFest 2014](./webrtcfest2014.jpg "WebRTCFest 2014 - First Prize")
+Con los años, he desarrollado un montón de cosas, pero de la que más orgulloso estoy es [Atom - Tabla Periódica & Tests](https://atom.horuslugo.com). Esta aplicación la creé porque necesitaba estudiar para unos exámenes de química cuando estaba en bachillerato, pero, cuando la publiqué, más estudiantes la encontraron útil y empezaron a utilizarla para dar un empujón al inicio de sus clases de química. En Marzo de 2018, decidí reconstruir la aplicación, y hacerla [open source](https://github.com/HorusGoul/atom-pwa) publicandola en mi perfil de GitHub para que otros puedan revisar el código o incluso contribuir al proyecto.
 
-Over the years, I've developed lots of things and the one I'm definitely most proud of is [Atom - Periodic Table & Tests](https://atom.horuslugo.com). I built it with the purpose of studying for some chemistry exams back in high school, but as soon as I published it, more students found it useful to take off with their chemistry classes. Back in March, I decided to rebuild the app and [open source](https://github.com/HorusGoul/atom-pwa) it on my GitHub profile, so others can check out the code or even contribute to the project!
+![Atom - Periodic Table & Tests](./atom.png "Atom - Tabla Periódica & Tests")
 
-![Atom - Periodic Table & Tests](./atom.png "Atom - Periodic Table & Tests")
-
-Another project that deserves to be mentioned is the one I'm currently working on and has made me the great developer I'm today, [Kiddle](https://kiddle.xyz). We attempt to bring people a way to connect with their interests by offering a platform with tools to build and discover communities. As the only developer of the project, I've faced a lot of challenges that required me to step up my game in areas such as performance in browsers or UI/UX design. Some technologies that are currently in use are Typescript, React, Redux, Node.js, and PostgreSQL.
+Otro proyecto que merece ser mencionado, y en el cual aún estoy trabajando, [Kiddle](https://kiddle.xyz). Con Kiddle, queremos ofrecer a la gente una forma de conectar con sus intereses ofreciéndoles una plataforma con las herramientas para crear y descubrir comunidades. Como único desarrollador del proyecto, me he encontrado con montones de retos gracias a los cuales me he visto obligado a mejorar en áreas como rendimiento en los navegadores, o diseño UI/UX. A día de hoy, me considero un buen desarrollador gracias a este proyecto. Algunas de las tecnologías que están actualmente en uso son: Typescript, React, Redux, Node.js y PostgreSQL.
 
 ![Kiddle](./kiddle.png "Kiddle")
 
-Projects apart, I'm interested in learning more about topics like functional programming, testing, or usability.
+Proyectos aparte, estoy interesado en aprender más sobre temas como programación funcional, testing, o usabilidad.
 
-Besides my professional career, there are other things that I like such as playing ping pong, reading blogs about science or going out with my friends. My favorite music genre is electronic, more specifically, Trance, followed by Progressive House. To finish this introduction about myself, I think it's needed to say that I'm a cat person.
+Además de mi carrera profesional, hay otras cosas que me gustan mucho como jugar ping pong, leer blogs sobre ciencia o salir con mis amigos. Mi género de música favorito es electrónica, más específicamente, Trance, seguido del Progressive House. Para acabar esta introducción sobre mí, creo que es necesario decir que me gustan mas los gatos que los perros.
 
-And that would be me, born in 1998, currently living in Seville, improving every day, as a person, and as a professional Software Developer.
+Y todo esto sería yo, nací en 1998, actualmente viviendo en Sevilla, mejorando cada día como persona y como Desarrollador de Sofware profesional.
 
 <center>
-  <img src="https://media2.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=3640f6095c15a061564c32366f0ebd18" height="300" alt="Cat typing" title="Cat typing" />
+  <img src="https://media2.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=3640f6095c15a061564c32366f0ebd18" height="300" alt="Gato escribiendo" title="Gato escribiendo" />
 </center>
