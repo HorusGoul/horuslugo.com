@@ -9,8 +9,10 @@ class Layout extends React.Component {
     const { location, config, children, translations } = this.props
     let header
     let headerStyles = {};
+    const slug = config.fields.slug.replace(/\/$/, "");
+    const pathname = location.pathname.replace(/\/$/, "");
 
-    if (`${__PATH_PREFIX__}${config.fields.slug}` === location.pathname) {
+    if (`${__PATH_PREFIX__}${slug}` === pathname) {
       headerStyles.marginBottom = rhythm(1.5);
 
       header = (
