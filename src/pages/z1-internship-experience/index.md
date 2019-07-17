@@ -47,6 +47,8 @@ They even make a big deal about taking your picture so you can use it on Slack a
   </small>
 </center>
 
+<br />
+
 Another thing to highlight is the importance they give to socializing at the workplace by organizing events regularly. In the past three months, they’ve held a BBQ, a paella, some breakfasts, and the weekly event that takes place every Friday at 13:15, “San Litro y Papas.”
 
 Overall, I’ve really enjoyed the experience of working at Z1, and I would recommend to anyone looking for an internship to contact this company as it would help them bootstrap their careers by improving both hard and soft skills.
