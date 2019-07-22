@@ -25,13 +25,7 @@ Six months later, in March of 2019, I joined the lab team of Z1 as an intern and
 
 A few weeks later, Luis and Candido joined the internship program as a Full-Stack Developer and UX Designer respectively and since then, we’ve worked together in City Escape, the revamped version of How Much To Make An App that will launch soon, and a new tool that will allow people to build beautifully designed Gantt charts.
 
-![Lab team: Luis, Jesús, Horus and Cándido from left to right](team.jpeg)
-
-<center>
-  <small>
-    Lab team: Luis, Jesús, Horus and Cándido from left to right
-  </small>
-</center>
+![Lab team: Luis, Jesús, Horus and Cándido from left to right](team.jpeg 'Lab team: Luis, Jesús, Horus and Cándido from left to right')
 
 ### Improving both hard and soft skills.
 
@@ -39,15 +33,7 @@ Z1 offers English classes so we can all practice speaking and at the same time w
 
 They even make a big deal about taking your picture so you can use it on Slack and other social media platforms. This is great because during the first month it was hard for me to associate names with faces, and thanks to this measure, everybody has a picture of themselves and every time I had doubts about someone's name I just had to take a look.
 
-![My profile photo. Kudos to Clarisa (Z1's CCO)](horus.jpeg)
-
-<center>
-  <small>
-    My profile photo. Kudos to Clarisa (Z1's CCO)
-  </small>
-</center>
-
-<br />
+![My profile photo. Kudos to Clarisa (Z1's CCO)](horus.jpeg "My profile photo. Kudos to Clarisa (Z1's CCO)")
 
 Another thing to highlight is the importance they give to socializing at the workplace by organizing events regularly. In the past three months, they’ve held a BBQ, a paella, some breakfasts, and the weekly event that takes place every Friday at 13:15, “San Litro y Papas.”
 

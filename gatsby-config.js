@@ -3,7 +3,8 @@ module.exports = {
     siteUrl: 'https://horuslugo.com',
     author: 'Horus Lugo López',
     title: 'Horus Lugo',
-    description: 'A place to share my knowledge and projects about web development.',
+    description:
+      'A place to share my knowledge and projects about web development.',
   },
   pathPrefix: '/gatsby-starter-i18n-blog',
   plugins: [
@@ -21,7 +22,10 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 590,
+              maxWidth: 700,
+              showCaptions: true,
+              quality: 90,
+              withWebp: true,
             },
           },
           {

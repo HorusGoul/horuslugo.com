@@ -1,6 +1,6 @@
 import React from 'react'
 import Helmet from 'react-helmet'
-import { Link,graphql } from 'gatsby'
+import { Link, graphql } from 'gatsby'
 import get from 'lodash/get'
 
 import Bio from '../components/Bio'
@@ -16,7 +16,11 @@ class BlogPostTemplate extends React.Component {
     const { previous, next } = this.props.pageContext
 
     return (
-      <Layout location={this.props.location} config={this.props.data.config} translations={post.frontmatter.translations}>
+      <Layout
+        location={this.props.location}
+        config={this.props.data.config}
+        translations={post.frontmatter.translations}
+      >
         <Helmet
           htmlAttributes={{ lang: this.props.pageContext.language }}
           meta={[{ name: 'description', content: siteDescription }]}
@@ -52,23 +56,22 @@ class BlogPostTemplate extends React.Component {
             justifyContent: 'space-between',
             listStyle: 'none',
             padding: 0,
+            marginLeft: 0,
           }}
         >
           <li>
-            {
-              previous &&
+            {previous && (
               <Link to={previous.fields.slug} rel="prev">
                 ← {previous.frontmatter.title}
               </Link>
-            }
+            )}
           </li>
           <li>
-            {
-              next &&
+            {next && (
               <Link to={next.fields.slug} rel="next">
                 {next.frontmatter.title} →
               </Link>
-            }
+            )}
           </li>
         </ul>
       </Layout>
@@ -80,10 +83,9 @@ export default BlogPostTemplate
 
 export const pageQuery = graphql`
   query BlogPostBySlug($slug: String!, $language: String!) {
-    config:markdownRemark(frontmatter: {
-      language: { eq: $language }
-      type: { eq: "language" }
-    }) {
+    config: markdownRemark(
+      frontmatter: { language: { eq: $language }, type: { eq: "language" } }
+    ) {
       html
       fields {
         slug
