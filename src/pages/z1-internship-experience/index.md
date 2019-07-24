@@ -1,6 +1,6 @@
 ---
 title: Learning about AR, Startups, Digital Products and so on as a Z1 Intern
-date: '2019-07-17'
+date: '2019-07-24'
 language: en
 translations: []
 ---
@@ -9,7 +9,11 @@ translations: []
 
 I love the startup scene, I think it’s amazing how little companies show up in the market offering better products with far fewer people and resources than the big ones.
 
-I’ve always had a few questions in my head regarding successful startups: How do they do it? How do they turn ideas into amazing products? Am I skilled enough to participate in the process?
+I’ve always had a few questions in my head regarding successful startups:
+
+> How do they do it?
+> How do they turn ideas into amazing products?
+> Am I skilled enough to participate in the process?
 
 These questions led me, back in November of 2018, to search for a startup in Seville to do an internship.
 
