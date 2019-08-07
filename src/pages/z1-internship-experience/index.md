@@ -1,48 +1,73 @@
 ---
-title: Learning about AR, Startups, Digital Products and so on as a Z1 Intern
-date: '2019-07-24'
+title: The importance of choosing a cool company for your software internship
+date: '2019-08-07'
 language: en
 translations: []
 ---
 
-**During my last year of vocational training, Z1, an international digital product studio based in Sevilla, offered me the opportunity to join the Lab team as an intern. During the course of my internship, I’ve gotten to know the team and worked on really cool projects with them.**
+**I joined the Z1 Lab team before finishing my vocational training, worked on projects involving startups, and learned essential lessons beyond technology.**
 
-I love the startup scene, I think it’s amazing how little companies show up in the market offering better products with far fewer people and resources than the big ones.
+![Z1 Lab team](team-2.jpeg 'Z1 Lab team')
 
-I’ve always had a few questions in my head regarding successful startups:
+I love the startup scene, I think it's amazing how little companies show up in the market offering better products with far fewer people and resources than the big ones. That's why I've always had a few questions in my head regarding successful startups:
 
-> How do they do it?
-> How do they turn ideas into amazing products?
-> Am I skilled enough to participate in the process?
+> <br />
+> How do founders do it? How do startups turn ideas into amazing products? Am I skilled enough to participate in the process?
+> <br />
+> <br />
 
 These questions led me, back in November of 2018, to search for a startup in Seville to do an internship.
 
-![Z1's Office](z1office.jpeg)
+![Z1 HQ](z1office.jpeg 'Z1 HQ')
 
-At the beginning of my research, I found myself lost in a sea of obsolete companies that didn’t fit with the idea of a startup I had in mind. The days were passing by, and I started to think I would end up in one of those companies at the bottom of an immense hierarchy working in projects that I didn’t find interesting.
+At the beginning of my research, I found myself lost in a sea of obsolete companies that didn't fit with the idea of a startup I had in mind. The days were passing by, and I started to think I would end up in one of those companies at the bottom of an immense hierarchy working in projects that I didn't find interesting.
 
-That’s when one of my teachers mentioned Z1, which at the time was named Commite. The first thing that caught my eye was their website and the showcased products. Everything was beautiful and carefully crafted, they even listed the tech stack used for each project. After seeing all of that, the next thing I did was contact [Hector (Z1’s CEO) on LinkedIn](https://www.linkedin.com/in/hectorginer/).
+That's when one of my teachers mentioned Z1, which [at the time was named Commite](https://medium.com/z1digitalstudio/we-are-z1-57754161359b). The first thing that caught my eye was their website and the showcased products. **Everything was beautiful and carefully crafted**, they even listed the tech stack used for each project, something I was not used to finding at other local companies. After seeing all that, the next thing I did was get in touch directly with [Hector (Z1's CEO) on LinkedIn](https://www.linkedin.com/in/hectorginer).
+
+I went direct to the point and told him I'd love to join the Z1 team. It might look sassy, but it actually worked and six months later, I joined the Z1 lab team as an intern.
+
+The way I got in touch with Hector, made it easy for them to end up at the side-projects I've created and I feel proud of, listed on my LinkedIn profile. One of these projects is [Atom](https://atom.horuslugo.com), an app I developed in 2015 that has been used by more than 40K students ever since, or Kiddle, a social network twitter-look like I built over the years. Both Atom and Kiddle took me to face lots of challenges and learn different technologies, like Typescript, React, Redux, Node.js, and PostgreSQL.
+
+![Atom and Kiddle interfaces](apps.png 'Atom and Kiddle interfaces')
 
 ### Joining the team
 
-Six months later, in March of 2019, I joined the lab team of Z1 as an intern and began working with Ivan (Z1’s Lab Lead) in City Escape, a project that attempts to transform cities into escape rooms using augmented reality.
+I started working in March of 2019 directly with [Ivan Coronado](https://medium.com/@ivancoronado) (Z1's Lab Lead) in _City Escape_, a project that attempts to transform cities into escape rooms using Augmented Reality (still in progress!!).
 
-A few weeks later, Luis and Candido joined the internship program as a Full-Stack Developer and UX Designer respectively and since then, we’ve worked together in City Escape, the revamped version of How Much To Make An App that will launch soon, and a new tool that will allow people to build beautifully designed Gantt charts.
+A few weeks later, [Luis Adame](https://www.linkedin.com/in/luis-adame-rodriguez/), [Jesús Vázquez](https://www.linkedin.com/in/jesús-vázquez-rosa/) and [Cándido Baquero](https://www.linkedin.com/in/candidobaquero/) joined the internship program as Full-Stack Developers and UX Designer respectively. Since then, we are working together in City Escape, but also in the revamped version of [How Much To Make An App](https://howmuchtomakeanapp.netlify.com), and in internal tools like [Moodboads](https://moodboards.z1.digital) or [Ganttify](https://gantt.z1.digital).
 
-![Lab team: Luis, Jesús, Horus and Cándido from left to right](team.jpeg 'Lab team: Luis, Jesús, Horus and Cándido from left to right')
+> <br />
+> Crafting digital products is fun because you get your hand dirty having the chance to solve all kind of problems while using technology.
+> <br /> <br />
+
+### Bleeding edge technologies
+
+To work on these projects we opted for React and Serverless with Now.sh and Firebase, among others. In Z1 Lab we are constantly trying new technologies. It's a great way to check how they perform before using them directly with clients. **Right now we are researching Machine Learning with TensorFlow, and GraphQL is our next goal**.
+
+> You should definitely take a look at this talk by [James Reggio](https://twitter.com/jamesreggio), Web Platform Lead at Convoy👇
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IxmrRiA9Gso" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Improving both hard and soft skills.
 
-Z1 offers English classes so we can all practice speaking and at the same time we have interesting conversations with each other. I've been attending them since the second week, and I think it's really cool because, in addition to practicing English, you get to know your co-workers.
+But is not only about technology. During my internship, I've also learned three important lessons:
 
-They even make a big deal about taking your picture so you can use it on Slack and other social media platforms. This is great because during the first month it was hard for me to associate names with faces, and thanks to this measure, everybody has a picture of themselves and every time I had doubts about someone's name I just had to take a look.
+- **belonging to a multidisciplinary team**, where designers have as much workload as developers, and everybody's work is equally important,
+- knowing how to use technologies that **let you iterate fast while creating high-quality experiences**, something vital for clients and end-users,
+- and **not being afraid to express what I think regarding projects**. I might have just left school, but my ideas have been always taking into account.
 
-![My profile photo. Kudos to Clarisa (Z1's CCO)](horus.jpeg "My profile photo. Kudos to Clarisa (Z1's CCO)")
+Besides all that, Z1 offers English lessons so we can all practice speaking and at the same time, having interesting conversations about philosophy, trends, news, etc. I think it's really cool because, in addition to improving your English level, you really get to know your co-workers.
 
-Another thing to highlight is the importance they give to socializing at the workplace by organizing events regularly. In the past three months, they’ve held a BBQ, a paella, some breakfasts, and the weekly event that takes place every Friday at 13:15, “San Litro y Papas.”
+![My profile photo. Kudos to Clarisa (Z1's CCO)](horus.jpeg "My profile photo. Kudos to <a href='https://medium.com/@clarisaguerra'>Clarisa Guerra</a> (Z1's CCO)")
 
-Overall, I’ve really enjoyed the experience of working at Z1, and I would recommend to anyone looking for an internship to contact this company as it would help them bootstrap their careers by improving both hard and soft skills.
+As part of the team is working remotely (we have mates in NY, Vancouver, Castellón or Murcia), Z1 also take care of taking a nice picture of you that you can use on Slack (our main communication channel) and other social media platforms.
 
----
+This is great because at first, it was hard for me to associate names with faces (it's a 40 people team so far!), so every time I had doubts about someone's name I just had to take a look at their picture on Slack.
 
-At Z1, we are really active in social media, you’ll be able to find interesting resources and updates about what’s in the oven on [Twitter](https://twitter.com/z1digitalstudio), [LinkedIn](https://www.linkedin.com/company/z1digitalstudio/), [Instagram](https://www.instagram.com/z1digitalstudio/), [GitHub](https://github.com/z1digitalstudio), and [Dribbble](https://dribbble.com/z1).
+Another thing I'd like to highlight is **the importance Z1 gives to socializing at the workplace** by organizing events regularly. In the past three months, they've held a BBQ, a paella, some breakfasts, a foosball tournament, and the weekly event that takes place every Friday at 13:15: "San Litro y Papas", where everybody stops working to drink beer and eat crisps 😂.
+
+![Luis Adame, Chus Vázquez, myself and Candi Baquero](team.jpeg 'Luis Adame, Chus Vázquez, myself and Candi Baquero')
+
+I've really enjoyed the experience of working at Z1, and I would recommend to anyone looking for an internship to contact this studio as it would help you **bootstrap your careers while having fun** (you can check what positions are currently open at [Z1 careers page](https://z1.digital/careers), or e-mail them directly to careers@z1.digital).
+
+And one last but not least recommendation: Z1 are really active on social media. They are on [Twitter](https://twitter.com/z1digitalstudio), [LinkedIn](https://www.linkedin.com/company/z1digitalstudio/), [Instagram](https://www.instagram.com/z1digitalstudio/), [GitHub](https://github.com/z1digitalstudio), and [Dribbble](https://dribbble.com/z1). Start following them to find interesting resources and updates about what’s in the oven!
