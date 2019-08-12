@@ -22,7 +22,7 @@ These questions led me, back in November of 2018, to search for a startup in Sev
 
 At the beginning of my research, I found myself lost in a sea of obsolete companies that didn't fit with the idea of a startup I had in mind. The days were passing by, and I started to think I would end up in one of those companies at the bottom of an immense hierarchy working in projects that I didn't find interesting.
 
-That's when one of my teachers mentioned Z1, which [at the time was named Commite](https://medium.com/z1digitalstudio/we-are-z1-57754161359b). The first thing that caught my eye was their website and the showcased products. **Everything was beautiful and carefully crafted**, they even listed the tech stack used for each project, something I was not used to finding at other local companies. After seeing all that, the next thing I did was get in touch directly with [Hector (Z1's CEO) on LinkedIn](https://www.linkedin.com/in/hectorginer).
+That's when one of my teachers mentioned [Z1](https://z1.digital), which [at the time was named Commite](https://medium.com/z1digitalstudio/we-are-z1-57754161359b). The first thing that caught my eye was their website and the showcased products. **Everything was beautiful and carefully crafted**, they even listed the tech stack used for each project, something I was not used to finding at other local companies. After seeing all that, the next thing I did was get in touch directly with [Hector (Z1's CEO) on LinkedIn](https://www.linkedin.com/in/hectorginer).
 
 I went direct to the point and told him I'd love to join the Z1 team. It might look sassy, but it actually worked and six months later, I joined the Z1 lab team as an intern.
 
@@ -71,3 +71,5 @@ Another thing I'd like to highlight is **the importance Z1 gives to socializing 
 I've really enjoyed the experience of working at Z1, and I would recommend to anyone looking for an internship to contact this studio as it would help you **bootstrap your careers while having fun** (you can check what positions are currently open at [Z1 careers page](https://z1.digital/careers), or e-mail them directly to careers@z1.digital).
 
 And one last but not least recommendation: Z1 are really active on social media. They are on [Twitter](https://twitter.com/z1digitalstudio), [LinkedIn](https://www.linkedin.com/company/z1digitalstudio/), [Instagram](https://www.instagram.com/z1digitalstudio/), [GitHub](https://github.com/z1digitalstudio), and [Dribbble](https://dribbble.com/z1). Start following them to find interesting resources and updates about what’s in the oven!
+
+> This article was also published on [Z1's Medium publication](https://medium.com/z1digitalstudio/software-intern-z1lab-22f53971a3a0).
