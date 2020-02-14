@@ -93,7 +93,7 @@ class Layout extends React.Component {
             fontWeight: 'bold',
           }}
         >
-          <a href="https://mobile.twitter.com/HorusGoul">twitter</a>
+          <a href="https://twitter.com/HorusGoul">twitter</a>
           &nbsp; · &nbsp;
           <a href="https://github.com/HorusGoul">github</a>
           &nbsp; · &nbsp;
