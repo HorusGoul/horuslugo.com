@@ -35,8 +35,6 @@ $ git clone https://github.com/HorusGoul/fabric-mod-starter.git
 
 Otherwise, [click this link to download it](https://github.com/HorusGoul/fabric-mod-starter/archive/starting-point.zip).
 
-{% github HorusGoul/fabric-mod-starter no-readme %}
-
 ### 2. Open the project folder with your code editor
 
 Using Visual Studio Code:
